@@ -1,0 +1,2 @@
+print ("TOUCHED BY ZERO COOL")
+print ("CIE MAU NYOLONG")
